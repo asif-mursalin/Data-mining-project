@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+tenacity
+packaging
+nbformat>=4.2.0
+jupyter
+ipywidgets
+notebook
