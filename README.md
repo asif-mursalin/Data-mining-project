@@ -15,6 +15,15 @@ In your `Project.ipynb`, create a new cell and run:
 ```python
 !pip install -r requirements.txt
 ```
+
+# Run this before working
+```bash
+git checkout main
+git pull          # Update main with remote changes
+git checkout <your-branch-name>
+git merge main    # Bring those changes to your branch
+```
+
 # Run this before working (Experimental)
 ## To update main branch while working on your branch
 
