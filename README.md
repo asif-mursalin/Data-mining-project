@@ -15,7 +15,7 @@ In your `Project.ipynb`, create a new cell and run:
 ```python
 !pip install -r requirements.txt
 ```
-# Run this before working
+# Run this before working (Experimental)
 ## To update main branch while working on your branch
 
 run this:
